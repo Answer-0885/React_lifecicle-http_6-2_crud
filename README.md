@@ -4,7 +4,7 @@
 - npm run server - запуск json-сервера.
 
 
-CRUD
+CRUD [Ознакомиться с проектом](https://answer-0885.github.io/React_lifecicle-http_6-2_crud/)
 ===
 
 Вам необходимо реализовать базовый CRUD без обновления при работе с HTTP.
