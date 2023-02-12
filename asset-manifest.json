@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_lifecicle-http_6-2_crud/static/css/main.b072a034.css",
+    "main.js": "/React_lifecicle-http_6-2_crud/static/js/main.ff7759a4.js",
+    "index.html": "/React_lifecicle-http_6-2_crud/index.html",
+    "main.b072a034.css.map": "/React_lifecicle-http_6-2_crud/static/css/main.b072a034.css.map",
+    "main.ff7759a4.js.map": "/React_lifecicle-http_6-2_crud/static/js/main.ff7759a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b072a034.css",
+    "static/js/main.ff7759a4.js"
+  ]
+}
