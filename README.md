@@ -1,3 +1,6 @@
+npm i -  установка зхависимостей
+npm start - запуск проекта
+npm run server - запуск json-сервера
 CRUD
 ===
 
